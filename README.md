@@ -2,7 +2,7 @@
 
 Feel free to look around
 
-If you want to learn more visit [Mike Tillman](http://miketillman95.github.io/me)
+If you want to learn more visit me [here](http://miketillman95.github.io/me)
 <!--
 **miketillman95/miketillman95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
