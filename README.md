@@ -1,6 +1,12 @@
-### Hello world👋
+### Hello world, Im Michael Tillman👋
 
-Feel free to look around
+* I graduated from Arizona State University with a degree in economics 
+* I have worked for multiple operation positions postgrad over the years for smaller companies and bigger companies like Verizon
+* I realized my love for software engineering and pivoted to become a Software engineer in 2022
+* I have worked on some small projects for organizations but I am now looking for fulltime position!
+* I love making music, fitness, exploring, traveling the world, and anything that involves learning something new :)
+
+
 
 If you would like to learn more about me, visit me [here](http://miketillman95.github.io/me):)
 <!--
