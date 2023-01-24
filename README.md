@@ -1,7 +1,7 @@
 ### Hello world, Im Michael Tillman👋
 
 * I graduated from Arizona State University with a degree in economics 
-* Since postgrad I have worked multiple operation poistions for startup and multinational sized companies
+* Since postgrad I have worked multiple operation positions for startup and multinational sized companies
 * I realized my love for software engineering and pivoted to work in the space in 2022
 
 
