@@ -2,7 +2,7 @@
 
 * I graduated from Arizona State University with a degree in economics 
 * Since postgrad I have worked multiple operation positions for startup and multinational sized companies
-* I realized my love for software engineering and pivoted to work in the space in 2022
+* I realized my love for creating and problem solving and pivoted to work in the software development space in 2022
 
 
 
