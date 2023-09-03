@@ -1,6 +1,9 @@
 ### Hello world, Im Mike Tillman👋
 
-* I am a graduate from Arizona State University with a degree in economics and I currently work as a Servicenow Developer
+ * Servicenow Developer
+ * Philomath
+ * Human
+   
   
 
 If you would like to learn more about me, visit me [here](http://miketillman95.github.io/me):)
