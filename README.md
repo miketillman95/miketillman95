@@ -1,10 +1,7 @@
-### Hello world, Im Michael Tillman👋
+### Hello world, Im Mike Tillman👋
 
-* I graduated from Arizona State University with a degree in economics 
-* Since postgrad I have worked multiple operation positions for startup and multinational sized companies
-* I realized my love for creating and problem solving and pivoted to work Technology
-
-
+* I am a graduate from Arizona State University with a degree in economics and I currently work as a Servicenow Developer
+  
 
 If you would like to learn more about me, visit me [here](http://miketillman95.github.io/me):)
 <!--
