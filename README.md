@@ -1,6 +1,6 @@
 ### Hello world, Im Mike Tillman👋
 
- * Servicenow Developer
+ * Software engineer
  * Philomath
  * Human
    
