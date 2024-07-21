@@ -1,12 +1,10 @@
-### Hello world, Im Mike Tillman👋
+### Here we are
 
- * Software engineer
- * Philomath
- * Human
+* Random stuff I've been up too
    
   
 
-If you would like to learn more about me, visit me [here](http://miketillman95.github.io/me):)
+[Deeper dive](http://miketillman95.github.io/me):)
 <!--
 **miketillman95/miketillman95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
